@@ -1,4 +1,4 @@
-# Chill Box IPTV Player
+# Chill Box IPTV 
 
 <div align="center">
   <img src="https://your-image-url.com/chillbox-logo.png" alt="Chill Box Logo" width="120" height="120"/>
